@@ -11,7 +11,7 @@ The website is designed to be responsive, which means it can be accessed from an
 
 Preview of the Project
 
-https://Word-and-Character-Counter.mohdirtiza.repl.co
+https://mi-word-and-character-count.netlify.app
 
 
 ## FAQ
